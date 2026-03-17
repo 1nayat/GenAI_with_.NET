@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/LLMs_with_gitModels/">
+    <Project Path="TextCompilation_gitModels/TextCompilation_gitModels.csproj" />
+  </Folder>
+  <Folder Name="/LLMs_with_ollama/">
+    <Project Path="TextCompilation_ollama/TextCompilation_ollama.csproj" />
+  </Folder>
+</Solution>

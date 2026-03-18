@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/FunctionCall/">
+    <File Path="FunctionCall" />
+    <Project Path="FunctionCalling/FunctionCalling.csproj" />
+  </Folder>
   <Folder Name="/LLMs_with_gitModels/">
     <Project Path="TextCompilation_gitModels/TextCompilation_gitModels.csproj" />
   </Folder>

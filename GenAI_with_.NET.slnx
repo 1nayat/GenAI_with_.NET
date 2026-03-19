@@ -9,6 +9,10 @@
   <Folder Name="/LLMs_with_ollama/">
     <Project Path="TextCompilation_ollama/TextCompilation_ollama.csproj" />
   </Folder>
+  <Folder Name="/RAG/">
+    <Project Path="ChatApp_LocalModel_Ollama/ChatApp_LocalModel_Ollama.csproj" />
+    <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
+  </Folder>
   <Folder Name="/Vectors/">
     <Project Path="VectorEmbeddings/VectorEmbeddings.csproj" />
     <Project Path="VectorSearch/VectorSearch.csproj" />

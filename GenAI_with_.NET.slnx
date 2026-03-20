@@ -23,5 +23,6 @@
   </Folder>
   <Folder Name="/Vision/">
     <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="96de957d-2dbd-408f-90bd-b3e2bdaa7751" />
+    <Project Path="TrafficCamAnalyzer/TrafficCamAnalyzer.csproj" Id="8ece47bf-493f-4854-bf57-19d59593f292" />
   </Folder>
 </Solution>

@@ -21,4 +21,7 @@
     <Project Path="VectorSearch/VectorSearch.csproj" />
     <Project Path="VectorSearch_ollama/VectorSearch_ollama.csproj" />
   </Folder>
+  <Folder Name="/Vision/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="96de957d-2dbd-408f-90bd-b3e2bdaa7751" />
+  </Folder>
 </Solution>

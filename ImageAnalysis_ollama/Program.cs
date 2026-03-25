@@ -30,4 +30,4 @@ messages.Add(message);
 var response = await client.GetResponseAsync(messages);
 Console.WriteLine($"Prompt: {userPrompt}");
 Console.WriteLine($"Image: {imageFileName}");
-Console.WriteLine($"Response: {response.Messages[0]}");`
+Console.WriteLine($"Response: {response.Messages[0]}");
